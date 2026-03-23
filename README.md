@@ -11,9 +11,9 @@ With a strong foundation in threat intelligence and security analysis, I aim to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Zero Trust Architecture & Secure Access           | CloudGate|
-| Identity-Based Authentication & Access Control    | CloudGate|
-| Security Logging & Alerting                       | CloudGate|
+| Zero Trust Architecture & Secure Access           | <a href="https://github.com/Harshithabm1/CloudGate/tree/main"/>CloudGate</a>|
+| Identity-Based Authentication & Access Control    |<a href="https://github.com/Harshithabm1/CloudGate/tree/main"/>CloudGate</a>|
+| Security Logging & Alerting                       |<a href="https://github.com/Harshithabm1/CloudGate/tree/main"/>CloudGate</a>|
 
 ## Tools
 ### Security Monitoring & SIEM
@@ -68,6 +68,6 @@ With a strong foundation in threat intelligence and security analysis, I aim to 
 </div>
 
 ## Projects
-- CloudGate – Zero Trust Access Platform
+- <a href="https://github.com/Harshithabm1/CloudGate/tree/main"/>CloudGate – Zero Trust Access Platform</a>
 - Third-party Risk assessment
 - Adversarial Attacks
